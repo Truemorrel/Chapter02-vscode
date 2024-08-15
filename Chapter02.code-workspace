@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "Formatting"
+		},
+		{
+			"path": "Arguments"
+		},
+		{
+			"path": "Exercise03"
+		}
+	],
+	"settings": {
+		"screencastMode.keyboardOptions": {
+			"showKeybindings": false
+		},
+		"vim.statusBarColors.insert": ""
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
